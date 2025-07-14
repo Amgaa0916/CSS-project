@@ -1,2 +1,3 @@
 # CSS-project
-CSS knowledge check by crea
+CSS knowledge check by creating prject
+This file will be editted after finishing the project 
